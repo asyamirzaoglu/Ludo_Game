@@ -1,6 +1,7 @@
 # Ludo Game App
 
-This is a **Ludo Game** application built using **React Native**, following the tutorial by [Ritik Prasad](https://www.youtube.com/watch?v=0DnX8w9A3YU&t=5596s).
+This is a **Ludo Game** application built using **React Native**, following the tutorial by [Ritik Prasad](https://www.youtube.com/watch?v=0DnX8w9A3YU&t=5596s). The project was developed using React Native CLI, without using any additional frameworks.
+
 
 ## Features
 - A multiplayer Ludo game for **up to 4 players**.

@@ -21,6 +21,8 @@ export const ArrowSpot=[12,51,38,25]
 export const turningPoints=[52,13,26,39]
 export const victoryStart=[111,221,331,441]
 
+export const startingPoints=[1,14,27,40]
+
 export const colorPlayer=[
     Colors.red,
     Colors.green,
